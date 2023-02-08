@@ -25,5 +25,3 @@ ENDSSH
 # Step 2
 printf "\n----> Copy the distribution package to the target.\n"
 scp -r -i "$key" * ubuntu@$hostname:services/$service/public
-
-# trying to get this portion of code to work
