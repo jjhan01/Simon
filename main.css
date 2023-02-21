@@ -99,7 +99,7 @@ body {
   .button-bottom-right {
     border-radius: 0 0 100% 0;
     margin: 0 20px 20px 0;
-    background-color: blue;
+    background-color: rgb(170, 5, 5);
     border: thick solid rgb(27, 14, 100);
   }
   
@@ -154,3 +154,4 @@ body {
       flex: 1 100vh;
     }
   }
+  
