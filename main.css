@@ -19,7 +19,7 @@ body {
   footer {
     flex: 0 30px;
   }
-  enu {
+  menu {
     flex: 1;
     display: flex;
     /*  overwrite Bootstrap so the menu does not wrap */
